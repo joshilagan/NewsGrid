@@ -17,8 +17,8 @@ header input[type="checkbox"] {
 }
 nav img {
   width: 200px;
-  height: 60px;
-  padding: 10px;
+  height: 70px;
+  /* padding: 10px; */
   object-fit: cover;
 }
 /* navbar / hamburger*/
@@ -77,6 +77,8 @@ input:checked ~ nav .navbar-toggler .bar:nth-child(3) {
   transform: rotate(-45deg);
 }
 /* header icons */
+
+
 nav .flex-item-2 {
   width: 50%;
   display: flex;
